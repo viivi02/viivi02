@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="200" src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/kathryn.png">
+    <img width="200" src="https://github.com/viivi02/viivi02/blob/6d18af2c3cdeb3b4f4db24f3985eedcbd43ca95c/Working%20Computer%20GIF%20-%20Working%20Work%20Computer%20-%20Discover%20%26%20Share%20GIFs.gif">
 </p>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
