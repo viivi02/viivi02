@@ -7,7 +7,7 @@
 </p>
 
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=viivi02)
+![Profile views]([https://visitor-badge.glitch.me/badge?page_id=viivi02](https://visitor-badge.glitch.me/badge?page_id=viivi02.visitor-badge.issue.1))
 [![Github](https://img.shields.io/github/followers/viivi02?label=Follow&style=social)](https://github.com/viivi02)
 
 <div size='20px'> Hi! My name is Vinicius. Thank You for taking the time to view my GitHub Profile :smile: 
