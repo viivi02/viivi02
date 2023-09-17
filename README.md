@@ -51,9 +51,3 @@
 
 
 <br>
-
-
------
-Credits: [Aditya Deshmukh](https://github.com/Aditya664)
-
-Last Edited on: 04/09/2021
