@@ -41,7 +41,7 @@
 <a href = 'https://instagram.com/bleh_vivi?igshid=NzZlODBkYWE4Ng=='> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/></a> 
 <br>
 <br>
-  <br>
+<h2>My GitHub Status</h2>
   
 | ![Vinicius github stats](https://github-readme-stats.vercel.app/api?username=viivi02&show_icons=true&theme=tokyonight) | ![Vinicius GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=viivi02&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&background=45%2C1EA5BA%2C051462)|
 | --- | --- |
