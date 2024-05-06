@@ -10,7 +10,7 @@
 
 [![Github](https://img.shields.io/github/followers/viivi02?label=Follow&style=social)](https://github.com/viivi02)
 
-<div size='20px'> Hi! My name is Vinicius. Thank You for taking the time to view my GitHub Profile :smile: 
+<div size='20px'><h3> Hi! My name is Vinicius. Thank You for taking the time to view my GitHub Profile :smile: </h3>
 </div>
 
 <h2> About Me </h2>
