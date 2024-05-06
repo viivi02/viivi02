@@ -2,7 +2,7 @@
     <img width="50%" src="https://github.com/viivi02/viivi02/blob/6d18af2c3cdeb3b4f4db24f3985eedcbd43ca95c/Working%20Computer%20GIF%20-%20Working%20Work%20Computer%20-%20Discover%20%26%20Share%20GIFs.gif">
 </p>
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<h1> Hello There < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <p align='center'>
 </p>
 
@@ -10,7 +10,7 @@
 
 [![Github](https://img.shields.io/github/followers/viivi02?label=Follow&style=social)](https://github.com/viivi02)
 
-<div size='20px'><h3> Hi! My name is Vinicius. Thank You for taking the time to view my GitHub Profile :smile: </h3>
+<div size='20px'><h3> Hi! My name is Vinicius Lemes. Thank You for taking the time to view my GitHub Profile :smile: </h3>
 </div>
 
 <h2> About Me </h2>
@@ -19,7 +19,7 @@
 
 - 🔭 I’m currently studying at college Fatec Dr. Thomaz Novelino
   
-- 🌱 I’m currently learning Git, Java, GitHub, Python, Html, Css and Javascript
+- 🌱 I’m currently learning Git, Java, GitHub, Python, Sql, Html, Css and Javascript
   
 - 💬 Ask me about Sql, Java, Python, JavaScript
   
