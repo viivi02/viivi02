@@ -1,58 +1,76 @@
-<p align="center">
-    <img width="50%" src="https://github.com/viivi02/viivi02/blob/6d18af2c3cdeb3b4f4db24f3985eedcbd43ca95c/Working%20Computer%20GIF%20-%20Working%20Work%20Computer%20-%20Discover%20%26%20Share%20GIFs.gif">
-</p>
+<h1 align="center">Hello There < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></h1>
 
-<h1> Hello There < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
-<p align='center'>
-</p>
+###
 
-
-
-[![Github](https://img.shields.io/github/followers/viivi02?label=Follow&style=social)](https://github.com/viivi02)
-
-<div size='20px'><h3> Hi! My name is Vivi Lemes. Thank You for taking the time to view my GitHub Profile :smile: </h3>
-</div>
+<h3> Hi! My name is Vivi Lemes. Thank You for taking the time to view my GitHub Profile </h3>
 
 <h2> About Me </h2>
 
-<img width="35%" height = "20%" align="right" alt="Github" src="https://github.com/viivi02/viivi02/blob/ad3bfd7c420c86f09ea21121a15e58c9190013b5/Student%20Studying%20GIF%20-%20Student%20Studying%20Anime%20-%20Discover%20%26%20Share%20GIFs.gif" />
+<img align="right" height="225" src="https://github.com/viivi02/viivi02/blob/a4d087da89cfc234ed1067934e2916d1889d7e92/Student%20Studying%20GIF%20-%20Student%20Studying%20Anime%20-%20Discover%20%26%20Share%20GIFs.gif"  />
 
 - 🔭 I’m currently studying at college Fatec Dr. Thomaz Novelino
   
-- 🌱 I’m currently learning Java, Python, Docker, PySpark and AWS Clound
+- 🌱 I’m currently learning Data mining, Python, Java Spring Boot, Clound
   
-- 💬 Ask me about Sql, Java, Python, JavaScript
+- 💬 Ask me about Sql, Data Engineering, Python, JavaScript, Statics
   
 - ⚡ Fun fact: My favorite book series is Sherlock Holmes.
 
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-<a href=#> <img width ='50px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
-<a href=#> <img width ='50px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-<a href=#> <img width ='50px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a>
-<a href=#> <img width ='50px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'> </a>
-<a href=#> <img width ='50px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/oracle.svg'> </a>
-<a href=#> <img width ='50px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
-<a href=#> <img width ='50px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
-<a href=#> <img width ='50px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/docker.svg'> </a>
-<a href=#> <img width ='50px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/aws.svg'> </a>
-<a href=#> <img width ='50px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg'> </a>
-<a href=#> <img width ='50px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg'> </a>
-
-
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'https://www.linkedin.com/in/vinicius-lemes-7a9a5822b'> <img width = '50px' align= 'flex'
-src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://instagram.com/bleh_vivi?igshid=NzZlODBkYWE4Ng=='> <img width = '50px' align= 'flex'
-src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/></a> 
+###
 <br>
-<br>
-<h2>My GitHub Status</h2>
-  
-| ![Vinicius github stats](https://github-readme-stats.vercel.app/api?username=viivi02&show_icons=true&theme=tokyonight) | ![Vinicius GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=viivi02&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&background=45%2C1EA5BA%2C051462)|
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viivi02&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=viivi02&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+<h2>Technologies & Tools</h2>
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/markdown/000000" height="40" alt="markdown logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/prisma/2D3748" height="40" alt="prisma logo"  />
+</div>
 
+###
+<h2></h2>
 
-<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/viivi02/viivi02/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/viivi02/viivi02/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/viivi02/viivi02/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=viivi02&locale=en&mode=weekly&theme=dracula&hide_border=true&border_radius=5&order=3" height="250" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+   <a href = 'www.linkedin.com/in/vivi-lemes'> 
+       <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+    <a href = 'vitoria.lemes0306@gmail.com'>
+        <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
+    </a>
+</div>
+
+###
